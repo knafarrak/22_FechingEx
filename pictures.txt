@@ -1,0 +1,2 @@
+esto es un fichero informativo que nos dirá 
+las imágenes que hemos introducido en la carpeta /pictures
